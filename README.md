@@ -22,7 +22,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-### <h2 align="center">📫 Contacts</h2> 
+### <h2>📫 Contacts</h2> 
 
 <p align="center">
   <a href="mailto:ya.sergei240300@yandex.ru">davud.ganbaroff@yandex.ru</a>
