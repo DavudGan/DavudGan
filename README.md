@@ -7,9 +7,7 @@
   
 - 🔭 Регулярно изучаю что-то новое и интересное 👩‍💻  
 - 👀 В поиске команды с которой будем разрабатывать крутые приложения 🔥
-- 🔎 На данный момент активно ищу работу, мое [резюме](https://ekaterinburg.hh.ru/resume/2f3c97e0ff0bd2d5490039ed1f79704e6a6969)** 
-  
-<br/>  
+- 🔎 На данный момент активно ищу работу, мое [резюме](https://ekaterinburg.hh.ru/resume/2f3c97e0ff0bd2d5490039ed1f79704e6a6969)
 
 ## My Skill Set  
 
@@ -23,7 +21,6 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
----
 
 ### <h2 align="center">📫 Contacts</h2> 
 
