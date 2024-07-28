@@ -32,10 +32,7 @@
   <a href="https://t.me/DavudG">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat" alt="Telegram">
   </a>
-  
-  <a href="https://vk.com/fadihard">
-    <img src="https://img.shields.io/badge/-VK-4680C2?logo=vk&logoColor=white&style=flat" alt="VK">
-  </a>
+
   
 </p>
   
