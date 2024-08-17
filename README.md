@@ -13,22 +13,54 @@
   </p>
 </div>
 
-### <h2>📫 Мои контакты</h2> 
 
-<p>
-  Почта: <a href="mailto:ya.sergei240300@yandex.ru">davud.ganbaroff@yandex.ru</a>
-</p>
+<div align="center"> 
+ <h2>📫 Мои контакты</h2> 
+ <p>
+   Почта: <a href="mailto:ya.sergei240300@yandex.ru">davud.ganbaroff@yandex.ru</a>
+ </p>
+ 
+ <p>
+   <a href="https://t.me/DavuDaD">
+     <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat" alt="Telegram">
+   </a>
+ </p>
+</div>
 
-<p>
-  <a href="https://t.me/DavuDaD">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat" alt="Telegram">
-  </a>
-</p>
+<div>
+ <h2 align="center">Мои проекты 💼</h2>
+
+- 📁 [Проект Stellar burger (Приложение для заказа бургеров)](https://github.com/DavudGan/stellar-burger)
+- 📁 [Приложение для размещения фотокарточек](https://github.com/DavudGan/mesto-project-ff)
+</div>
+
+
+
+<div align="center">  
+ <h2>Технологии, которые я использую</h2>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="45" height="45"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="45" height="45"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="45" height="45"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="45" height="45"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="45" height="45"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="45" height="45"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="reactjs" alt="reactjs" width="45" height="45"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="45" height="45"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="45" height="45"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="45" height="45"/>&nbsp;
+</div>
+
+<div align="center">
+  <h3>Инструменты :key:</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="45" height="45" fill="red"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="45" height="45"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="45" height="45"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="45" height="45"/>&nbsp
+</div>
   
 
-## <h2>GitHub статистика :chart_with_upwards_trend:</h2>
-
  <div align="center">
+  <h2>GitHub статистика :chart_with_upwards_trend:</h2>
   <table>
     <tr>
       <td>
@@ -44,5 +76,5 @@
 </div>
     </tr>
   </table>
-  
+
  
