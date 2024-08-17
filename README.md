@@ -45,7 +45,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavudGan&hide_border=true&layout=compact"/>
       </td>
       <td>
-     <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavudGan&layout=compact&theme=dracula" />
+     <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DavudGan&theme=dark&background=272a36" alt="webDev's Github stats" />
       </td>
     </tr>
   </table>
