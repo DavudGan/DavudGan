@@ -26,8 +26,16 @@
 </p>
   
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavudGan&hide_border=true&layout=compact" align="center" /></div>  
-
-## Github Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavudGan&theme=dark&locale=ru&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) 
+## GitHub статистика 
+<table>
+    <tr>
+      <td>
+        <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavudGan&hide_border=true&layout=compact" align="center" /></div> 
+      </td>
+      <td>
+        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavudGan&theme=dark&locale=ru&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) 
+      </td>
+    </tr>
+  </table>
+  
+ 
