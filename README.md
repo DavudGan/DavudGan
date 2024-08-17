@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DavudGan.DavudGan"/>
+
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh6c29haGF3MXl6NDd4MWhuYzRrdm52d3RzN2R6NnJ2ZXBmZHc4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.webp" alt="gif-coder" />
 </div>
