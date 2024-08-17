@@ -37,7 +37,7 @@
       </td>
 
 
-     <div align="center">
+ <div align="center">
   <h3>GitHub статистика :chart_with_upwards_trend:</h3>
   <table>
     <tr>
@@ -45,9 +45,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavudGan&hide_border=true&layout=compact"/>
       </td>
       <td>
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavudGan&theme=dark&locale=ru&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) 
+     <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavudGan&layout=compact&theme=dracula" />
       </td>
     </tr>
+  </table>
+ </div>
   </table>
 </div>
     </tr>
