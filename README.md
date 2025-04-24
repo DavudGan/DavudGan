@@ -30,6 +30,7 @@
 <div>
  <h2 align="center">Мои проекты 💼</h2>
 
+- 📁 [Проект asalari_tgBot (TG бот для группы)](https://github.com/DavudGan/asalari_tgBot)
 - 📁 [Проект Stellar burger (Приложение для заказа бургеров)](https://github.com/DavudGan/stellar-burger)
 - 📁 [Приложение для размещения фотокарточек](https://github.com/DavudGan/mesto-project-ff)
 </div>
